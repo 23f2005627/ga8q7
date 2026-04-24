@@ -1,6 +1,7 @@
-import sys, os, json  
+import json
+import os
+import sys
 
-x = 10  
 
-def test( ):
-    print( "bad formatting" )  
+def test():
+    print("bad formatting")
